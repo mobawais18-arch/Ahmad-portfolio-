@@ -56,7 +56,7 @@ export default function Resume() {
       </section>
 
       <section className="container-x py-10 sm:py-14" aria-label="CV preview">
-        <div className="mx-auto w-full max-w-3xl group relative block w-full cursor-zoom-in overflow-hidden rounded-2xl border border-slate-200 bg-white shadow-md">
+        <div className="mx-auto w-full max-w-3xl group relative block-in overflow-hidden rounded-2xl border border-slate-200 bg-white shadow-md">
           <img
             src={FILES.png}
             alt="Curriculum vitae of Muhammad Ahmad Ashfaq"
